@@ -7,6 +7,6 @@ El contenido de este repositorio contiene solo desarrollos a las tareas y está 
 
 Si eres funcionario de la UC y tienes alguna preocupación sobre el contenido de este repositorio, estoy más que dispuesta a hacer el repositorio privado.
 
-**Promovamos un ambiente de más colaboración y menos individualismo**
+**Promovamos un ambiente de más colaboración y menos individualismo en la UC**
 
 v.belen.valdivia@uc.cl
